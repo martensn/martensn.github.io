@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download my CV (PDF)"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Abstract. A one- or two-sentence summary of the paper’s question, approach, and main finding goes here.\nRead the paper (PDF)"
+  },
+  {
+    "objectID": "research.html#working-paper-title-goes-here",
+    "href": "research.html#working-paper-title-goes-here",
+    "title": "Research",
+    "section": "",
+    "text": "Abstract. A one- or two-sentence summary of the paper’s question, approach, and main finding goes here.\nRead the paper (PDF)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nicholas Martens",
+    "section": "",
+    "text": "Nicholas Martens\nI am a first-year PhD student in Economics. My research interests are in labor economics, with secondary interests in urban, spatial, and health economics."
+  }
+]
