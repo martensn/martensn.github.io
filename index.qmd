@@ -1,0 +1,17 @@
+---
+title: ""
+---
+
+::: {.column-body}
+
+# Nicholas Martens
+
+I am a first-year PhD student in Economics. My research interests are in
+labor economics, with secondary interests in urban, spatial, and health
+economics.
+
+<!-- TODO: replace with a short bio — where you're studying, advisors, and
+what questions you work on. Add an email/contact link and links to
+Google Scholar, X/Twitter, LinkedIn, etc. if you'd like. -->
+
+:::

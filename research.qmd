@@ -1,0 +1,15 @@
+---
+title: "Research"
+---
+
+<!-- TODO: replace the placeholder title/abstract below with your actual
+paper details. Once you have a standalone figure (e.g. a key ggplot2 chart
+exported as a .png), add it above the abstract as a thumbnail that links
+through to the paper — that's the visualization-driven "hook" for this page. -->
+
+## Working Paper Title Goes Here
+
+**Abstract.** A one- or two-sentence summary of the paper's question,
+approach, and main finding goes here.
+
+[Read the paper (PDF)](files/paper.pdf)
