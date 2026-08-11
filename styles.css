@@ -88,8 +88,11 @@ a:hover {
 
 /* paper rows (landing page) */
 .paper-row {
-  font-size: 16px;
-  padding: 6px 0;
+  font-size: 13px;
+  padding: 5px 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 .paper-title {
   font-weight: 400;
@@ -97,7 +100,7 @@ a:hover {
 }
 .paper-row .meta {
   color: var(--muted-50);
-  font-size: 14px;
+  font-size: 12px;
 }
 .paper-row .meta a {
   color: var(--muted-50);
