@@ -82,7 +82,7 @@ a:hover {
 .section-label {
   color: var(--accent-orange);
   font-weight: 700;
-  font-size: 13px;
+  font-size: 17px;
   margin-bottom: 10px;
 }
 
@@ -113,6 +113,9 @@ a:hover {
   align-items: flex-start;
   gap: 16px;
   padding: 8px 0;
+}
+.entry-row.compact {
+  padding: 2px 0;
 }
 .entry-left {
   display: flex;
