@@ -3,7 +3,7 @@ title: ""
 ---
 
 <div class="header-row">
-  <a class="site-name" href="index.html">NICHOLAS MARTENS</a>
+  <a class="site-name" href="index.html">Nicholas Martens</a>
   <nav class="top-nav">
     <a href="files/Resume.pdf">download pdf</a>
   </nav>

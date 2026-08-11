@@ -1,5 +1,5 @@
 <div class="header-row">
-  <a class="site-name" href="index.html">NICHOLAS MARTENS</a>
+  <a class="site-name" href="index.html">Nicholas Martens</a>
   <nav class="top-nav">
     <a href="cv.html">vitae</a>
     <!-- TODO: add more links as you get them, e.g.:
