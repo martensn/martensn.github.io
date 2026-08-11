@@ -1,2 +1,148 @@
-/* TODO: add custom styling here as you want to tweak the look.
-   Left minimal for now — the Quarto "cosmo" theme handles the defaults. */
+:root {
+  --bg: #282b33;
+  --text: #fffdda;
+  --muted-50: rgba(255, 253, 218, 0.5);
+  --muted-45: rgba(255, 253, 218, 0.45);
+  --muted-35: rgba(255, 253, 218, 0.35);
+  --accent-orange: #cc8855;
+  --accent-pink: #ff1493;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  max-width: 850px;
+  margin: 0 auto;
+  padding: 64px 24px 96px;
+  line-height: 1.5;
+}
+
+a {
+  color: var(--text);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* header */
+.header-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+.site-name {
+  font-size: 26px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+.top-nav {
+  display: flex;
+  gap: 20px;
+  font-size: 15px;
+  color: var(--muted-50);
+}
+.top-nav a {
+  color: var(--muted-50);
+}
+.header-rule {
+  border: none;
+  border-top: 1px solid var(--muted-35);
+  margin: 16px 0 32px;
+}
+
+/* status / intro lines */
+.status-line {
+  margin: 2px 0;
+  font-size: 16px;
+}
+.fields-line {
+  margin: 2px 0;
+  font-size: 15px;
+  color: var(--muted-50);
+}
+
+/* sections */
+.section {
+  margin-top: 36px;
+}
+.section-label {
+  color: var(--accent-orange);
+  font-weight: 700;
+  font-size: 13px;
+  margin-bottom: 10px;
+}
+
+/* paper rows (landing page) */
+.paper-row {
+  font-size: 16px;
+  padding: 6px 0;
+}
+.paper-title {
+  font-weight: 400;
+  color: var(--text);
+}
+.paper-row .meta {
+  color: var(--muted-50);
+  font-size: 14px;
+}
+.paper-row .meta a {
+  color: var(--muted-50);
+}
+.paper-row .accent-link {
+  color: var(--accent-pink) !important;
+}
+
+/* vitae entry rows */
+.entry-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 16px;
+  padding: 8px 0;
+}
+.entry-left {
+  display: flex;
+  flex-direction: column;
+}
+.entry-title {
+  font-size: 16px;
+  color: var(--text);
+}
+.entry-subtitle {
+  font-size: 15px;
+  color: var(--muted-50);
+}
+.entry-date {
+  font-size: 15px;
+  color: var(--muted-50);
+  white-space: nowrap;
+}
+
+@media (max-width: 600px) {
+  body {
+    padding: 40px 16px 64px;
+  }
+  .site-name {
+    font-size: 20px;
+  }
+  .entry-row {
+    flex-direction: column;
+  }
+  .entry-date {
+    margin-top: 2px;
+  }
+}
