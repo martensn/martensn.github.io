@@ -2,16 +2,27 @@
 title: ""
 ---
 
-::: {.column-body}
+{{< include _header.qmd >}}
 
-# Nicholas Martens
+<p class="status-line">incoming phd student, economics</p>
 
-I am a first-year PhD student in Economics. My research interests are in
-labor economics, with secondary interests in urban, spatial, and health
-economics.
+<p class="fields-line">labor economics, urban economics, spatial economics, health economics</p>
 
-<!-- TODO: replace with a short bio — where you're studying, advisors, and
-what questions you work on. Add an email/contact link and links to
-Google Scholar, X/Twitter, LinkedIn, etc. if you'd like. -->
+<div class="section">
+<p class="section-label">working papers</p>
 
-:::
+<div class="paper-row"><a class="paper-title" href="files/paper.pdf">Working Paper Title Goes Here</a><span class="meta"> &middot; <span class="date">2026</span></span></div>
+
+</div>
+
+<!--
+TODO:
+- Replace the placeholder title/date above with your actual paper.
+- Add a program/department line under "incoming phd student, economics"
+  once you have one, and a contact line once you have an institutional email.
+- Duplicate the paper-row line above for each additional paper. To add a
+  coauthor or journal link inside a row, append more spans before the
+  closing </div>, e.g.:
+  <span class="meta"> &middot; <a href="https://coauthor-site.com">Coauthor</a></span>
+  <span class="meta"> &middot; <a class="accent-link" href="#">journal (status)</a></span>
+-->

@@ -3,17 +3,11 @@ project:
 
 website:
   title: "Nicholas Martens"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: research.qmd
-        text: Research
-      - href: cv.qmd
-        text: CV
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: none
+    page-layout: full
+    title-block-banner: false
     toc: false
+    css: styles.css

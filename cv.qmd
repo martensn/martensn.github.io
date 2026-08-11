@@ -1,8 +1,43 @@
 ---
-title: "CV"
+title: ""
 ---
 
-[Download my CV (PDF)](files/Resume.pdf)
+<div class="header-row">
+  <a class="site-name" href="index.html">NICHOLAS MARTENS</a>
+  <nav class="top-nav">
+    <a href="files/Resume.pdf">download pdf</a>
+  </nav>
+</div>
+<hr class="header-rule">
 
-<iframe src="files/Resume.pdf" width="100%" height="800px" style="border: 1px solid #ddd;">
-</iframe>
+<div class="section">
+<p class="section-label">fields</p>
+<p class="status-line">Labor Economics, Urban Economics, Spatial Economics, and Health Economics</p>
+</div>
+
+<div class="section">
+<p class="section-label">education</p>
+
+<div class="entry-row"><div class="entry-left"><span class="entry-title">[[Your University]]</span><span class="entry-subtitle">PhD, Economics</span></div><span class="entry-date">2026-</span></div>
+
+</div>
+
+<div class="section">
+<p class="section-label">employment</p>
+
+<div class="entry-row"><div class="entry-left"><span class="entry-title">[[Employer]]</span><span class="entry-subtitle">[[Role]]</span></div><span class="entry-date">[[dates]]</span></div>
+
+</div>
+
+<div class="section">
+<p class="section-label">honors and awards</p>
+
+<div class="entry-row"><div class="entry-left"><span class="entry-title">[[Award name]]</span></div><span class="entry-date">[[year]]</span></div>
+
+</div>
+
+<!--
+TODO: fill in real content above (education/employment/honors), duplicating
+an entry-row line for each item. Delete the "honors and awards" section
+if not yet applicable.
+-->
