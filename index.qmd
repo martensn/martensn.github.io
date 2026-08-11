@@ -4,28 +4,31 @@ title: ""
 
 {{< include _header.qmd >}}
 
-<p class="status-line">incoming phd student, economics</p>
+<p class="status-line">incoming phd student</p>
+<p class="status-line">ucla economics</p>
 
-<p class="fields-line">labor economics, urban economics, spatial economics, health economics</p>
+<p class="fields-line">labor, urban, public, and spatial economics</p>
+
+<p class="fields-line">martensn at ucla dot edu</p>
 
 <div class="section">
-<p class="section-label">under review</p>
+<p class="section-label">under revision</p>
 
-<div class="paper-row"><span class="paper-title">Beyond Published Tables: Generating and Validating Custom Census Tract Demographics for Policy Analysis</span><span class="meta"> &middot; <span class="date">03/26</span></span><span class="meta"> &middot; <a href="https://kathleenbolter.com">Bolter</a>, <a href="https://sites.google.com/view/zachthebrown/home">Brown</a></span></div>
+<div class="paper-row"><a class="paper-title" href="files/paper.pdf">Plugging the [Brain] Drain</a><span class="meta"> &middot; <span class="date">04/24</span></span></div>
 
 </div>
 
 <div class="section">
 <p class="section-label">working papers</p>
 
-<div class="paper-row"><a class="paper-title" href="files/paper.pdf">Plugging the [Brain] Drain: Evidence from LinkedIn Profiles of College Graduates</a><span class="meta"> &middot; <span class="date">04/24</span></span><span class="meta"> &middot; <a href="https://doi.org/10.7302/23413">thesis</a></span></div>
+<div class="paper-row"><span class="paper-title">Beyond Published Tables</span><span class="meta"> &middot; <span class="date">03/26</span></span><span class="meta"> &middot; <a href="https://kathleenbolter.com">Bolter</a>, <a href="https://sites.google.com/view/zachthebrown/home">Brown</a></span></div>
 
 </div>
 
 <div class="section">
 <p class="section-label">publications</p>
 
-<div class="paper-row"><a class="paper-title" href="https://doi.org/10.1177/08912424241276845">Can Anyone Learn to Code? A Qualitative Study of Place-Based Information Technology Training Programs</a><span class="meta"> &middot; <span class="date">02/25</span></span><span class="meta"> &middot; <a href="https://kathleenbolter.com">Bolter</a></span><span class="meta"> &middot; <a class="accent-link" href="https://doi.org/10.1177/08912424241276845">edq</a></span></div>
+<div class="paper-row"><a class="paper-title" href="https://doi.org/10.1177/08912424241276845">Can Anyone Learn to Code</a><span class="meta"> &middot; <span class="date">02/25</span></span><span class="meta"> &middot; <a href="https://kathleenbolter.com">Bolter</a></span><span class="meta"> &middot; <a class="accent-link" href="https://doi.org/10.1177/08912424241276845">edq</a></span></div>
 
 </div>
 
@@ -34,9 +37,9 @@ TODO:
 - "Beyond Published Tables" has no public link yet (no PDF/URL on ORCID) — its
   title is plain text, not a link. Once you have a PDF or NBER/SSRN link,
   change <span class="paper-title"> to <a class="paper-title" href="...">.
-- Add a program/department line under "incoming phd student, economics"
-  once you'd like one, and a contact line once you have an institutional
-  email.
+- Titles here are abridged to the part before the colon/question mark to
+  keep each row on one line. The full titles are spelled out on the vitae
+  page.
 - To add a new paper, duplicate a paper-row line inside the relevant
   section (or add a new <div class="section"> block for a new category).
 -->
