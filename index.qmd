@@ -9,20 +9,37 @@ title: ""
 <p class="fields-line">labor economics, urban economics, spatial economics, health economics</p>
 
 <div class="section">
+<p class="section-label">under review</p>
+
+<div class="paper-row"><span class="paper-title">Beyond Published Tables: Generating and Validating Custom Census Tract Demographics for Policy Analysis</span><span class="meta"> &middot; <span class="date">03/26</span></span><span class="meta"> &middot; Bolter, Brown</span></div>
+
+</div>
+
+<div class="section">
 <p class="section-label">working papers</p>
 
-<div class="paper-row"><a class="paper-title" href="files/paper.pdf">Working Paper Title Goes Here</a><span class="meta"> &middot; <span class="date">2026</span></span></div>
+<div class="paper-row"><a class="paper-title" href="files/paper.pdf">Plugging the [Brain] Drain: Evidence from LinkedIn Profiles of College Graduates</a><span class="meta"> &middot; <span class="date">04/24</span></span><span class="meta"> &middot; <a href="https://doi.org/10.7302/23413">thesis</a></span></div>
+
+</div>
+
+<div class="section">
+<p class="section-label">publications</p>
+
+<div class="paper-row"><a class="paper-title" href="https://doi.org/10.1177/08912424241276845">Can Anyone Learn to Code? A Qualitative Study of Place-Based Information Technology Training Programs</a><span class="meta"> &middot; <span class="date">02/25</span></span><span class="meta"> &middot; Bolter</span><span class="meta"> &middot; <a class="accent-link" href="https://doi.org/10.1177/08912424241276845">edq</a></span></div>
 
 </div>
 
 <!--
 TODO:
-- Replace the placeholder title/date above with your actual paper.
+- "Beyond Published Tables" has no public link yet (no PDF/URL on ORCID) — its
+  title is plain text, not a link. Once you have a PDF or NBER/SSRN link,
+  change <span class="paper-title"> to <a class="paper-title" href="...">.
+- Coauthor names (Bolter, Brown) aren't linked to their personal sites —
+  add href="..." on them if you'd like, matching the pattern used for
+  "thesis" and "edq" above.
 - Add a program/department line under "incoming phd student, economics"
-  once you have one, and a contact line once you have an institutional email.
-- Duplicate the paper-row line above for each additional paper. To add a
-  coauthor or journal link inside a row, append more spans before the
-  closing </div>, e.g.:
-  <span class="meta"> &middot; <a href="https://coauthor-site.com">Coauthor</a></span>
-  <span class="meta"> &middot; <a class="accent-link" href="#">journal (status)</a></span>
+  once you'd like one, and a contact line once you have an institutional
+  email.
+- To add a new paper, duplicate a paper-row line inside the relevant
+  section (or add a new <div class="section"> block for a new category).
 -->
