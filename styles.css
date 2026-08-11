@@ -88,11 +88,8 @@ a:hover {
 
 /* paper rows (landing page) */
 .paper-row {
-  font-size: 13px;
-  padding: 5px 0;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+  font-size: 17px;
+  padding: 6px 0;
 }
 .paper-title {
   font-weight: 400;
@@ -100,12 +97,12 @@ a:hover {
 }
 .paper-row .meta {
   color: var(--muted-50);
-  font-size: 12px;
+  font-size: 14px;
 }
 .paper-row .meta a {
   color: var(--muted-50);
 }
-.paper-row .accent-link {
+.accent-link {
   color: var(--accent-pink) !important;
 }
 
@@ -133,6 +130,17 @@ a:hover {
   font-size: 15px;
   color: var(--muted-50);
   white-space: nowrap;
+}
+
+/* presentations (bold year, comma-delimited venues) */
+.presentation-line {
+  font-size: 15px;
+  margin: 4px 0;
+  color: var(--muted-50);
+}
+.year-bold {
+  color: var(--text);
+  font-weight: 700;
 }
 
 @media (max-width: 600px) {
