@@ -29,19 +29,21 @@ title: ""
 <div class="section">
 <p class="section-label">employment</p>
 
-<div class="entry-row"><div class="entry-left"><span class="entry-title">Becker Friedman Institute for Economics, University of Chicago</span><span class="entry-subtitle">Research Professional</span></div><span class="entry-date">2024-2026</span></div>
+<div class="entry-row"><div class="entry-left"><span class="entry-title">University of Chicago</span><span class="entry-subtitle">Research Professional for Dr. Evan Rose (Economics)</span></div><span class="entry-date">2024-2026</span></div>
 
-<div class="entry-row"><div class="entry-left"><span class="entry-title">University of Michigan, Department of Economics</span><span class="entry-subtitle">Research Assistant for Dr. Dean Yang</span></div><span class="entry-date">2023-2024</span></div>
+<p class="group-header">University of Michigan</p>
 
-<div class="entry-row"><div class="entry-left"><span class="entry-title">University of Michigan, Department of Sociology</span><span class="entry-subtitle">Research Assistant for Dr. Robert Manduca</span></div><span class="entry-date">2022-2023</span></div>
+<div class="entry-row"><div class="entry-left"><span class="entry-title">Research Assistant, Dr. Dean Yang (Economics)</span></div><span class="entry-date">2023-2024</span></div>
 
-<div class="entry-row"><div class="entry-left"><span class="entry-title">University of Michigan, Department of Political Science</span><span class="entry-subtitle">Research Assistant for Dr. Edie Goldenberg</span></div><span class="entry-date">2022-2024</span></div>
+<div class="entry-row"><div class="entry-left"><span class="entry-title">Research Assistant, Dr. Robert Manduca (Sociology)</span></div><span class="entry-date">2022-2023</span></div>
 
-<div class="entry-row"><div class="entry-left"><span class="entry-title">University of Michigan, Population Studies Center</span><span class="entry-subtitle">Research Associate for Dr. William Frey</span></div><span class="entry-date">2020-2024</span></div>
+<div class="entry-row"><div class="entry-left"><span class="entry-title">Research Assistant, Dr. Edie Goldenberg (Political Science)</span></div><span class="entry-date">2022-2024</span></div>
 
-<div class="entry-row"><div class="entry-left"><span class="entry-title">Brookings Institution</span><span class="entry-subtitle">Research Intern</span></div><span class="entry-date">2022</span></div>
+<div class="entry-row"><div class="entry-left"><span class="entry-title">Research Associate, Dr. William Frey (Population Studies Center)</span></div><span class="entry-date">2020-2024</span></div>
 
-<div class="entry-row"><div class="entry-left"><span class="entry-title">W.E. Upjohn Institute for Employment Research</span><span class="entry-subtitle">Research Assistant</span></div><span class="entry-date">2021-2022</span></div>
+<div class="entry-row"><div class="entry-left"><span class="entry-title">Brookings Institution</span><span class="entry-subtitle">Research Intern for Workforce of the Future Initiative</span></div><span class="entry-date">2022</span></div>
+
+<div class="entry-row"><div class="entry-left"><span class="entry-title">W.E. Upjohn Institute for Employment Research</span><span class="entry-subtitle">Research Assistant for Place-Based Research Initiative</span></div><span class="entry-date">2021-2022</span></div>
 
 </div>
 

@@ -131,6 +131,11 @@ a:hover {
   color: var(--muted-50);
   white-space: nowrap;
 }
+.group-header {
+  font-size: 16px;
+  color: var(--text);
+  margin: 14px 0 2px;
+}
 
 /* presentations (bold year, comma-delimited venues) */
 .presentation-line {
