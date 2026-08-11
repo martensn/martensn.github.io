@@ -18,9 +18,9 @@ title: ""
 <div class="section">
 <p class="section-label">education</p>
 
-<div class="entry-row"><div class="entry-left"><span class="entry-title">University of California, Los Angeles</span><span class="entry-subtitle">PhD, Economics</span></div><span class="entry-date">2026-</span></div>
+<div class="entry-row"><div class="entry-left"><span class="entry-title">University of California, Los Angeles</span><span class="entry-subtitle">Doctor of Philosophy, Economics</span></div><span class="entry-date">2026-</span></div>
 
-<div class="entry-row"><div class="entry-left"><span class="entry-title">University of California, Los Angeles</span><span class="entry-subtitle">Master of Arts, Economics</span></div><span class="entry-date">2026-2028</span></div>
+<div class="entry-row"><div class="entry-left"><span class="entry-title">University of California, Los Angeles</span><span class="entry-subtitle">Master of Arts, Economics</span></div><span class="entry-date">2026-</span></div>
 
 <div class="entry-row"><div class="entry-left"><span class="entry-title">University of Michigan</span><span class="entry-subtitle">Bachelor of Arts, Economics and Philosophy, Politics & Economics</span><span class="entry-subtitle">Highest Honors in Economics</span></div><span class="entry-date">2020-2024</span></div>
 
@@ -29,9 +29,13 @@ title: ""
 <div class="section">
 <p class="section-label">employment</p>
 
-<div class="entry-row"><div class="entry-left"><span class="entry-title">University of California, Los Angeles</span><span class="entry-subtitle">Research Assistant, <a class="accent-link" href="https://sites.google.com/view/patrick-kennedy/home">Patrick Kennedy (Economics)</a></span></div><span class="entry-date">2026-</span></div>
+<p class="group-header">University of California, Los Angeles</p>
 
-<div class="entry-row"><div class="entry-left"><span class="entry-title">University of Chicago</span><span class="entry-subtitle">Research Professional, <a class="accent-link" href="https://ekrose.github.io">Evan Rose (Economics)</a></span></div><span class="entry-date">2024-2026</span></div>
+<div class="entry-row compact"><div class="entry-left"><span class="entry-subtitle">Research Assistant, <a class="accent-link" href="https://sites.google.com/view/patrick-kennedy/home">Patrick Kennedy (Economics)</a></span></div><span class="entry-date">2026</span></div>
+
+<p class="group-header">University of Chicago</p>
+
+<div class="entry-row compact"><div class="entry-left"><span class="entry-subtitle">Research Professional, <a class="accent-link" href="https://ekrose.github.io">Evan Rose (Economics)</a></span></div><span class="entry-date">2024-2026</span></div>
 
 <p class="group-header">University of Michigan</p>
 
@@ -43,23 +47,20 @@ title: ""
 
 <div class="entry-row compact"><div class="entry-left"><span class="entry-subtitle">Research Associate, <a class="accent-link" href="https://ssdan.net">William Frey (Population Studies Center)</a></span></div><span class="entry-date">2020-2024</span></div>
 
-<div class="entry-row"><div class="entry-left"><span class="entry-title">Brookings Institution</span><span class="entry-subtitle">Research Intern, <a class="accent-link" href="https://www.brookings.edu/collection/workforce-of-the-future-initiative-2/">Workforce of the Future Initiative</a></span></div><span class="entry-date">2022</span></div>
+<p class="group-header">Brookings Institution</p>
 
-<div class="entry-row"><div class="entry-left"><span class="entry-title">W.E. Upjohn Institute for Employment Research</span><span class="entry-subtitle">Research Assistant, <a class="accent-link" href="https://www.upjohn.org/mri/policies-for-place">Place-Based Research Initiative</a></span></div><span class="entry-date">2021-2022</span></div>
+<div class="entry-row compact"><div class="entry-left"><span class="entry-subtitle">Research Intern, <a class="accent-link" href="https://www.brookings.edu/collection/workforce-of-the-future-initiative-2/">Workforce of the Future Initiative</a></span></div><span class="entry-date">2022</span></div>
 
-</div>
+<p class="group-header">W.E. Upjohn Institute for Employment Research</p>
 
-<div class="section">
-<p class="section-label">affiliations</p>
-
-<div class="entry-row"><div class="entry-left"><span class="entry-title">California Center for Population Research</span></div><span class="entry-date">2026-</span></div>
+<div class="entry-row compact"><div class="entry-left"><span class="entry-subtitle">Research Assistant, <a class="accent-link" href="https://www.upjohn.org/mri/policies-for-place">Place-Based Research Initiative</a></span></div><span class="entry-date">2021-2022</span></div>
 
 </div>
 
 <div class="section">
 <p class="section-label">under revision</p>
 
-<div class="entry-row"><div class="entry-left"><a class="entry-title" href="files/paper.pdf">Plugging the [Brain] Drain: Evidence from LinkedIn Profiles of College Graduates</a><span class="entry-subtitle">Revision in progress</span></div><span class="entry-date">2024</span></div>
+<div class="entry-row"><div class="entry-left"><a class="entry-title" href="files/paper.pdf">Plugging the [Brain] Drain: Evidence from LinkedIn Profiles of College Graduates</a></div><span class="entry-date">2024</span></div>
 
 </div>
 
@@ -88,23 +89,23 @@ title: ""
 <div class="section">
 <p class="section-label">awards and fellowships</p>
 
-<p class="group-header">UCLA</p>
+<p class="group-header">University of California, Los Angeles</p>
 
 <div class="entry-row compact"><div class="entry-left"><span class="entry-subtitle">First-Year Departmental Fellowship</span></div><span class="entry-date">2026</span></div>
 
 <p class="group-header">NextGenPop</p>
 
-<div class="entry-row compact"><div class="entry-left"><span class="entry-subtitle">Travel Award (Population Association of America Annual Meeting)</span></div><span class="entry-date">2026</span></div>
+<div class="entry-row compact"><div class="entry-left"><span class="entry-subtitle">PAA Travel Award</span></div><span class="entry-date">2026</span></div>
 
-<div class="entry-row compact"><div class="entry-left"><span class="entry-subtitle">Travel Award (Population Association of America Annual Meeting)</span></div><span class="entry-date">2025</span></div>
+<div class="entry-row compact"><div class="entry-left"><span class="entry-subtitle">PAA Travel Award</span></div><span class="entry-date">2025</span></div>
 
-<div class="entry-row compact"><div class="entry-left"><span class="entry-subtitle">Fellow (Population research fellowship)</span></div><span class="entry-date">2023</span></div>
+<div class="entry-row compact"><div class="entry-left"><span class="entry-subtitle">Population Research Fellowship</span></div><span class="entry-date">2023</span></div>
 
 <p class="group-header">University of Michigan</p>
 
 <div class="entry-row compact"><div class="entry-left"><span class="entry-subtitle">Highest Honors in Economics</span></div><span class="entry-date">2024</span></div>
 
-<div class="entry-row compact"><div class="entry-left"><span class="entry-subtitle">Harold Osterweil Memorial Prize (Department of Economics)</span></div><span class="entry-date">2024</span></div>
+<div class="entry-row compact"><div class="entry-left"><span class="entry-subtitle">Harold Osterweil Memorial Prize (Most socially conscious economics majors)</span></div><span class="entry-date">2024</span></div>
 
 <div class="entry-row compact"><div class="entry-left"><span class="entry-subtitle">John E. Parker Memorial Prize (Outstanding undergraduate writing in labor economics)</span></div><span class="entry-date">2024</span></div>
 
@@ -115,8 +116,12 @@ title: ""
 </div>
 
 <div class="section">
-<p class="section-label">memberships</p>
+<p class="section-label">affiliations</p>
+
+<div class="entry-row"><div class="entry-left"><span class="entry-title">California Center for Population Research</span></div><span class="entry-date">2026-</span></div>
 
 <div class="entry-row"><div class="entry-left"><span class="entry-title">Population Association of America</span></div><span class="entry-date">2023-</span></div>
+
+<div class="entry-row"><div class="entry-left"><span class="entry-title">United Autoworkers Local 4811</span></div><span class="entry-date">2026-</span></div>
 
 </div>
