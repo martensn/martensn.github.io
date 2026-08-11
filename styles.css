@@ -31,9 +31,21 @@ body {
 a {
   color: var(--text);
   text-decoration: none;
+  transition: opacity 0.2s, color 0.2s;
 }
 a:hover {
-  text-decoration: underline;
+  animation: scintillate 1.5s linear infinite;
+}
+
+@keyframes scintillate {
+  0% { color: rgb(255, 107, 107); }
+  15% { color: rgb(255, 217, 61); }
+  30% { color: rgb(107, 203, 119); }
+  45% { color: rgb(77, 150, 255); }
+  60% { color: rgb(155, 89, 182); }
+  75% { color: rgb(255, 20, 147); }
+  90% { color: rgb(255, 140, 0); }
+  100% { color: rgb(255, 107, 107); }
 }
 
 /* header */
