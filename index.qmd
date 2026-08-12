@@ -32,6 +32,13 @@ title: ""
 
 </div>
 
+<div class="section">
+<p class="section-label">projects</p>
+
+<div class="paper-row"><a class="paper-title" href="https://martensn.shinyapps.io/gaydar/" target="_blank" rel="noopener">Gaydar</a><span class="meta"> &middot; LGBTQ population estimates by census tract, from HPS &times; ACS &times; Gallup</span></div>
+
+</div>
+
 <!--
 TODO:
 - "Beyond Published Tables" has no public link yet (no PDF/URL on ORCID) — its
