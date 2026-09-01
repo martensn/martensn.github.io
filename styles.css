@@ -152,17 +152,6 @@ a:hover {
   margin: 14px 0 2px;
 }
 
-/* presentations (bold year, comma-delimited venues) */
-.presentation-line {
-  font-size: 15px;
-  margin: 4px 0;
-  color: var(--muted-50);
-}
-.year-bold {
-  color: var(--text);
-  font-weight: 700;
-}
-
 @media (max-width: 600px) {
   body {
     padding: 40px 16px 64px;
