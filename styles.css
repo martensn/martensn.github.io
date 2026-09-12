@@ -12,6 +12,10 @@
   box-sizing: border-box;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 html, body {
   background-color: var(--bg);
   color: var(--text);
@@ -197,6 +201,9 @@ a:hover {
 .article figure {
   margin: 20px 0;
 }
+.article [id^="chart-"] {
+  scroll-margin-top: 24px;
+}
 .article img {
   max-width: 100%;
   height: auto;
@@ -212,20 +219,33 @@ a:hover {
 }
 .article table {
   width: 100%;
+  table-layout: fixed;
   border-collapse: collapse;
+  border-top: 1px solid var(--muted-35);
+  border-bottom: 1px solid var(--muted-35);
   font-size: 14px;
   margin: 16px 0;
 }
 .article th,
 .article td {
-  border: 1px solid var(--muted-35);
-  padding: 6px 10px;
+  padding: 8px 12px;
   text-align: center;
   color: var(--muted-50);
+  border-right: 1px solid var(--muted-35);
+}
+.article th:last-child,
+.article td:last-child {
+  border-right: none;
+}
+.article th:first-child,
+.article td:first-child {
+  width: 22%;
+  text-align: left;
 }
 .article th {
   color: var(--text);
   font-weight: 700;
+  border-bottom: 1px solid var(--muted-35);
 }
 .table-scroll {
   overflow-x: auto;
