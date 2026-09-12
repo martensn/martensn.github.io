@@ -10,7 +10,7 @@ format:
   <a class="site-name" href="index.html">Nicholas Martens</a>
   <nav class="top-nav">
     <a href="https://martensn.shinyapps.io/college_geography/" target="_blank" rel="noopener">live app</a>
-    <a href="https://github.com/martensn/college_geography">git</a>
+    <a href="https://github.com/martensn/college_geography" target="_blank" rel="noopener">repo</a>
   </nav>
 </div>
 <hr class="header-rule">
