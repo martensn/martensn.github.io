@@ -159,10 +159,4 @@ a:hover {
   .site-name {
     font-size: 20px;
   }
-  .entry-row {
-    flex-direction: column;
-  }
-  .entry-date {
-    margin-top: 2px;
-  }
 }
