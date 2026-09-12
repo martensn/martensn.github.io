@@ -35,7 +35,7 @@ title: ""
 <div class="section">
 <p class="section-label">datasets</p>
 
-<div class="paper-row"><a class="paper-title" href="https://martensn.shinyapps.io/gaydar/" target="_blank" rel="noopener">Gaydar</a><span class="meta"> &middot; <span class="date">08/26</span></span><span class="meta"> &middot; <a class="accent-link" href="https://github.com/martensn/gaydar/tree/main">git</a></span></div>
+<div class="paper-row"><a class="paper-title" href="https://martensn.shinyapps.io/gaydar/" target="_blank" rel="noopener">Gaydar</a><span class="meta"> &middot; <span class="date">08/26</span></span><span class="meta"> &middot; <a class="accent-link" href="https://martensn.shinyapps.io/gaydar/methods.html" target="_blank" rel="noopener">methods</a></span><span class="meta"> &middot; <a class="accent-link" href="https://github.com/martensn/gaydar/tree/main">git</a></span></div>
 
 <div class="paper-row"><a class="paper-title" href="https://martensn.shinyapps.io/college_geography/" target="_blank" rel="noopener">Trade in Training</a><span class="meta"> &middot; <span class="date">09/26</span></span><span class="meta"> &middot; <a class="accent-link" href="trade-in-training.html">methods</a></span><span class="meta"> &middot; <a class="accent-link" href="https://github.com/martensn/college_geography">git</a></span></div>
 
