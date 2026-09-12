@@ -235,6 +235,11 @@ a:hover {
   min-width: 560px;
   margin: 0;
 }
+.article .references p {
+  padding-left: 2em;
+  text-indent: -2em;
+  margin: 14px 0;
+}
 
 @media (max-width: 600px) {
   body {
