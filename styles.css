@@ -152,6 +152,90 @@ a:hover {
   margin: 14px 0 2px;
 }
 
+/* long-form methodology article pages */
+.article {
+  margin-top: 24px;
+}
+.article h2 {
+  color: var(--accent-orange);
+  font-size: 20px;
+  font-weight: 700;
+  margin: 36px 0 12px;
+}
+.article h3 {
+  color: var(--text);
+  font-size: 17px;
+  font-weight: 700;
+  margin: 28px 0 8px;
+}
+.article h4 {
+  color: var(--text);
+  font-size: 16px;
+  font-weight: 700;
+  margin: 20px 0 6px;
+}
+.article p,
+.article li {
+  font-size: 15px;
+  color: var(--muted-50);
+  margin: 10px 0;
+  line-height: 1.6;
+}
+.article strong {
+  color: var(--text);
+}
+.article a {
+  color: var(--accent-pink);
+}
+.article code {
+  color: var(--text);
+  background: rgba(255, 253, 218, 0.08);
+  padding: 1px 5px;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+.article figure {
+  margin: 20px 0;
+}
+.article img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  border-radius: 4px;
+}
+.article figcaption {
+  font-size: 13px;
+  color: var(--muted-45);
+  text-align: center;
+  margin-top: 8px;
+}
+.article table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+  margin: 16px 0;
+}
+.article th,
+.article td {
+  border: 1px solid var(--muted-35);
+  padding: 6px 10px;
+  text-align: center;
+  color: var(--muted-50);
+}
+.article th {
+  color: var(--text);
+  font-weight: 700;
+}
+.table-scroll {
+  overflow-x: auto;
+  margin: 16px 0;
+}
+.table-scroll table {
+  min-width: 560px;
+  margin: 0;
+}
+
 @media (max-width: 600px) {
   body {
     padding: 40px 16px 64px;
