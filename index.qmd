@@ -19,14 +19,9 @@ title: ""
 </div>
 
 <div class="section">
-<p class="section-label">working papers</p>
-
-<div class="paper-row"><span class="paper-title">Beyond Published Tables</span><span class="meta"> &middot; <span class="date">03/26</span></span><span class="meta"> &middot; <a href="https://kathleenbolter.com">Bolter</a>, <a href="https://sites.google.com/view/zachthebrown/home">Brown</a></span></div>
-
-</div>
-
-<div class="section">
 <p class="section-label">publications</p>
+
+<div class="paper-row"><span class="paper-title">Beyond Published Tables</span><span class="meta"> &middot; <span class="date">03/26</span></span><span class="meta"> &middot; <a href="https://kathleenbolter.com">Bolter</a>, <a href="https://sites.google.com/view/zachthebrown/home">Brown</a></span><span class="meta"> &middot; rspp (accepted)</span></div>
 
 <div class="paper-row"><a class="paper-title" href="https://doi.org/10.1177/08912424241276845">Can Anyone Learn to Code</a><span class="meta"> &middot; <span class="date">02/25</span></span><span class="meta"> &middot; <a href="https://kathleenbolter.com">Bolter</a></span><span class="meta"> &middot; <a class="accent-link" href="https://doi.org/10.1177/08912424241276845">edq</a></span></div>
 
@@ -43,9 +38,11 @@ title: ""
 
 <!--
 TODO:
-- "Beyond Published Tables" has no public link yet (no PDF/URL on ORCID) — its
-  title is plain text, not a link. Once you have a PDF or NBER/SSRN link,
-  change <span class="paper-title"> to <a class="paper-title" href="...">.
+- "Beyond Published Tables" is accepted at Regional Science Policy & Practice
+  but has no DOI yet — its title and "rspp" are plain text, not links. Once
+  the DOI is out, change <span class="paper-title"> to
+  <a class="paper-title" href="https://doi.org/..."> and make "rspp" an
+  accent-link to the same DOI (like the "edq" link).
 - Titles here are abridged to the part before the colon/question mark to
   keep each row on one line. The full titles are spelled out on the vitae
   page.
